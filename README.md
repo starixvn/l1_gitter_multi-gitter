@@ -4,7 +4,7 @@
 ## Installation
 - Using Git Bash run following cmd:
 ```sh
-	install github.com/lindell/multi-gitter@latest
+	go install github.com/lindell/multi-gitter@latest
 ```
 
 ## Config (config.yml)
