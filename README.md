@@ -3,7 +3,7 @@
 
 ## Use Cases
 - Upgrade package dependence (sc-game-base, sc-slot-game-base, ...).
-- Update environtment config.
+- Update environment config.
 
 ## Installation
 - Using Git Bash run following cmd:
