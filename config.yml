@@ -108,4 +108,4 @@ ssh-auth: false
 token: your-token
 
 # The name of a user. All repositories owned by that user will be used.
-user: drake.doi
+user:
