@@ -19,7 +19,7 @@
 ```sh
 	multi-gitter run "bash $PWD/{script}" --config="./config.yml"
 ```
-
+- Example: multi-gitter run "bash $PWD/package-update.sh" --config="./config.yml"
 ## Example scripts
 - package-update.sh : upgrade sc-game-base
 - db-connnection-update.sh: update database connection string
