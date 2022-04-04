@@ -6,6 +6,7 @@
 - Update environment config.
 
 ## Installation
+- Install Go (link: https://go.dev/dl/)
 - Using Git Bash run following cmd:
 ```sh
 	go install github.com/lindell/multi-gitter@latest
