@@ -105,7 +105,7 @@ skip-pr: false
 ssh-auth: false
 
 # The GitHub/GitLab personal access token. Can also be set using the GITHUB_TOKEN/GITLAB_TOKEN/GITEA_TOKEN/BITBUCKET_SERVER_TOKEN environment variable.
-token: UQYjKZ6smmHuPi3Fsj-
+token: your-token
 
 # The name of a user. All repositories owned by that user will be used.
 user: drake.doi
