@@ -1,6 +1,10 @@
 ## Introduce
 **multi-gitter** allows you to make changes in multiple repositories simultaneously.
 
+## Use Cases
+- Upgrade package dependence (sc-game-base, sc-slot-game-base, ...).
+- Update environtment config.
+
 ## Installation
 - Using Git Bash run following cmd:
 ```sh
@@ -17,7 +21,7 @@
 
 ## Example scripts
 - package-update.sh : upgrade sc-game-base
-- db-connnection-update: update database connection string
+- db-connnection-update.sh: update database connection string
 
 ## Reference
 https://github.com/lindell/multi-gitter
