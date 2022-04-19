@@ -14,6 +14,7 @@
 
 ## Config (config.yml)
 - Token: using Gitlab persional access token having `api` permission.
+- conflict-strategy: highly recommend using the `skip` strategy. Only using the `replace` strategy when needed.
 
 ## Run Gitter
 ```sh
