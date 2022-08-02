@@ -15,6 +15,7 @@
 ## Config (config.yml)
 - Token: using Gitlab persional access token having `api` permission.
 - conflict-strategy: highly recommend using the `skip` strategy. Only using the `replace` strategy when needed.
+- skip-pr: highly recommend using value `true`, cause  of when value is `false` that will be create commit on base-branch. 
 
 ## Run Gitter
 ```sh
