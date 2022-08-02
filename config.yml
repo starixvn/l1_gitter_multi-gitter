@@ -99,7 +99,7 @@ repo:
 reviewers: vivian.nguyen
 
 # Skip pull request and directly push to the branch.
-skip-pr: false
+skip-pr: true
 
 # Use SSH cloning URL instead of HTTPS + token. This requires that a setup with ssh keys that have access to all repos and that the server is already in known_hosts.
 ssh-auth: false
