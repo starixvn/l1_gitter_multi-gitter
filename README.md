@@ -14,7 +14,7 @@
 
 ## Config (config.yml)
 - conflict-strategy: highly recommend using the `skip` strategy. Only using the `replace` strategy when needed.
-- skip-pr: With value `true` commit will be created on a new branch, otherwise, it will be created on base-branch (default: master).
+- skip-pr: With value `false` commit will be created on a new branch, otherwise, it will be created on base-branch (default: master).
 - group: run gitter on multiple repo on group, example: `l1/game-services`, `l1/vg2/game-services`.
 - Token: using Gitlab persional access token having `api` permission.
 
